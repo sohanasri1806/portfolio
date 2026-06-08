@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rakshak AI - Intelligent Disaster Response System",
+      "description": "An AI-powered disaster detection and response system using machine learning and NLP. Real-time map visualization with location-based alerts and an intelligent chatbot for disaster awareness.",
+      "image": "🚨",
+      "technologies": ["Python", "Machine Learning", "NLP", "HTML", "CSS", "JavaScript", "Overpass API"],
+      "features": [
+        "ML/NLP disaster detection from news and social media",
+        "Live map visualization of disaster zones",
+        "Location-based notifications",
+        "Disaster awareness chatbot powered by LLMs"
+      ],
+      "category": "ai-ml",
+      "githubLink": "https://github.com/sohanasri1806/rakshak-ai"
+    },
+    {
+      "id": 2,
+      "title": "HealthMate - Family Health Tracking System",
+      "description": "A comprehensive family health management application for tracking vaccinations, monitoring health metrics and appointments with timely reminders.",
+      "image": "🏥",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MySQL"],
+      "features": [
+        "Vaccination schedule and reminders",
+        "BP and blood sugar monitoring",
+        "Family health history tracking",
+        "Doctor appointment management with notifications"
+      ],
+      "category": "fullstack",
+      "githubLink": "https://github.com/ManyaSree05/Healthmate"
+    },
+    
+    {
+      "id": 3,
+      "title": "FurBuddy - Pet Care & Community Platform",
+      "description": "A comprehensive pet care and community platform integrating pet adoption, donation, matchmaking, healthcare discovery, and community interaction into a user-friendly application.",
+      "image": "🐾",
+      "technologies": ["React.js", "Springboot", "Firebase", "MySQL"],
+      "features": [
+        "Pet donation and adoption system",
+        "Pet mate finder for responsible breeding",
+        "Real-time community chat for pet owners",
+        "Nearby veterinary hospitals and care centers discovery",
+        "Email notifications for updates"
+      ],
+      "category": "fullstack",
+      "githubLink": "https://github.com/2305e3ish/furbuddy"
+    },
+    {
+      "id": 4,
+      "title": "Minimum Cost Path Finder – Algorithm Visualizer",
+      "description": "An interactive GUI visualizer for graph shortest-path algorithms. Designed to improve conceptual understanding through real-time graph rendering and dynamic path highlighting. Built with Python and Tkinter for an intuitive learning experience.",
+      "image": "🔀",
+      "technologies": ["Python", "Tkinter", "Data Structures"],
+      "features": [
+        "Interactive GUI for graph construction",
+        "Real-time algorithm visualization",
+        "Dynamic path highlighting for shortest paths",
+        "Custom graph rendering engine"
+      ],
+      "category": "algorithms",
+      "githubLink": "https://github.com/Lohithamarkapuram/PathFindingGame"
+    }
+  ]
+}

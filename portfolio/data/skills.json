@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": ["Java", "C", "Python", "SQL"]
+    },
+    {
+      "id": 2,
+      "category": "Frontend Development",
+      "icon": "fas fa-palette",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Bootstrap"]
+    },
+    {
+      "id": 3,
+      "category": "Backend Development",
+      "icon": "fas fa-server",
+      "skills": ["Node.js", "Express.js", "Spring Boot"]
+    },
+    {
+      "id": 4,
+      "category": "Databases",
+      "icon": "fas fa-database",
+      "skills": ["MySQL", "MongoDB", "Firebase"]
+    },
+    {
+      "id": 5,
+      "category": "AI / Machine Learning",
+      "icon": "fas fa-brain",
+      "skills": ["Machine Learning", "NLP", "LLMs", "RAG", "ChromaDB"]
+    },
+    {
+      "id": 6,
+      "category": "Tools & Technologies",
+      "icon": "fas fa-tools",
+      "skills": ["Git", "GitHub"]
+    }
+  ]
+}

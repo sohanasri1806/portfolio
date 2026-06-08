@@ -1,0 +1,49 @@
+{
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Tech Hunt – 1st Prize",
+      "category": "competition",
+      "date": "2025",
+      "icon": "fas fa-trophy",
+      "description": "Secured 1st Place in the Tech Hunt competition at college technical fest",
+      "details": "Won 1st Place by solving technical challenges, programming tasks, and problem-solving rounds."
+    },
+    {
+      "id": 2,
+      "title": "Gen AI Hackathon – 2nd Prize",
+      "category": "hackathon",
+      "date": "2025",
+      "icon": "fas fa-medal",
+      "description": "Awarded 2nd Place for developing AutoSage - a Generative AI-based solution at NASSCOM",
+      "details": "Developed AutoSage, an AI-powered solution for vehicle comparison. Competed among 83 teams and secured 2nd Prize in the NASSCOM Gen AI Hackathon."
+    },
+    {
+      "id": 3,
+      "title": "NASA Space Apps Challenge",
+      "category": "hackathon",
+      "date": "2025",
+      "icon": "fas fa-rocket",
+      "description": "Participated in the global NASA Space Apps Challenge competition",
+      "details": "Collaborated in developing an educational platform showcasing the capabilities of the James Webb Space Telescope through interactive learning experiences and games."
+    },
+    {
+      "id": 4,
+      "title": "Smart India Hackathon (SIH)",
+      "category": "hackathon",
+      "date": "2025",
+      "icon": "fas fa-lightbulb",
+      "description": "Participated in Smart India Hackathon - India's largest innovation competition",
+      "details": "Worked on solving real-world problem statements through technology-driven solutions and collaborative development. Gained experience in building scalable solutions for national challenges."
+    },
+    {
+      "id": 5,
+      "title": "AI with LLM - HCLTech",
+      "category": "certification",
+      "date": "2027",
+      "icon": "fas fa-microchip",
+      "description": "Ongoing comprehensive training on AI and Large Language Models by HCLTech",
+      "details": "Currently pursuing training to master Large Language Models (LLMs). Completed modules on ML, NLP, Deep Learning."
+    }
+  ]
+}

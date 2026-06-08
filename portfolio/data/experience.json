@@ -1,0 +1,21 @@
+{
+  "experience": [
+    
+    
+    {
+      "id": 1,
+      "position": "AI Intern - SwiftVisa Project",
+      "company": "Infosys Springboard",
+      "startDate": "November 2025",
+      "endDate": "February 2026",
+      "description": "Developed an intelligent visa eligibility checker powered by LLMs and RAG technology. Implemented semantic search with ChromaDB for accurate visa requirement information.",
+      "keyAchievements": [
+        "Built LLM-powered visa eligibility assessment system",
+        "Implemented semantic search using ChromaDB vector database",
+        "Developed RAG pipeline for accurate information retrieval",
+        "Received positive feedback from mentor for innovative approach and technical execution"
+      ],
+      "technologies": ["LLMs", "RAG", "ChromaDB", "Python"]
+    }
+  ]
+}
